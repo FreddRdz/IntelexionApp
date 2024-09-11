@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuracion>
+  <rutaImagenes>C:\Prueba\Imagenes</rutaImagenes>
+  <rutaSalidaZip>C:\Prueba</rutaSalidaZip>
+  <delimitador>|</delimitador>
+  <rutaLog>C:\Prueba</rutaLog>
+</configuracion>
